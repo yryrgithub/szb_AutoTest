@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e52bf30-2b27-4323-aae6-eef629f7981c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/runner/Main1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/casedata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/casedata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/case/Test009_HistoryRequestPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test009_HistoryRequestPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/page/CustomerConfigPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/CustomerConfigPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/page/DatasourceCostPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/DatasourceCostPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/page/FinancialStatisticsPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/FinancialStatisticsPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/page/MonitorConfigurationPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/MonitorConfigurationPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/runner/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/runner/Main.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="414" column="21" selection-start-line="414" selection-start-column="21" selection-end-line="414" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/page/MonitorConfigurationPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5520">
+              <caret line="248" column="47" selection-start-line="248" selection-start-column="36" selection-end-line="248" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/common/TableOperation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/page/FinancialStatisticsPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/common/FinancialStatistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1495">
+              <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/page/DatasourceCostPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="39" column="105" selection-start-line="39" selection-start-column="105" selection-end-line="39" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/page/BasePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cost</find>
+      <find>datasource</find>
+      <find>price</find>
+      <find>monitor</find>
+      <find>popup_close</find>
+      <find>self.find_element</find>
+      <find>api</find>
+      <find>quota</find>
+      <find>aip</find>
+      <find>实现</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>price</replace>
+      <replace>charging</replace>
+      <replace>customer</replace>
+      <replace>exemption</replace>
+      <replace>monitor_config</replace>
+      <replace>real_time_monitor</replace>
+      <replace>self.pop_up_close().click()</replace>
+      <replace>self.driver.find_element</replace>
+      <replace>datasources</replace>
+      <replace>测试</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/common/RealTimeRequest.py" />
+        <option value="$PROJECT_DIR$/test/case/TestRealTimeRequestPage.py" />
+        <option value="$PROJECT_DIR$/test/case/TestHistoryRequestPage.py" />
+        <option value="$PROJECT_DIR$/test/page/HistoryRequestPage.py" />
+        <option value="$PROJECT_DIR$/test/page/RealTimeRequestPage.py" />
+        <option value="$PROJECT_DIR$/test/common/FinancialStatistics.py" />
+        <option value="$PROJECT_DIR$/test/case/TestFinancialStatisticsPage.py" />
+        <option value="$PROJECT_DIR$/test/common/DatasourceBill.py" />
+        <option value="$PROJECT_DIR$/test/page/CustomerBillPage.py" />
+        <option value="$PROJECT_DIR$/test/case/TestCustomerBillPage.py" />
+        <option value="$PROJECT_DIR$/test/common/CustomerBill.py" />
+        <option value="$PROJECT_DIR$/test/case/TestSampleReviewPage.py" />
+        <option value="$PROJECT_DIR$/test/page/SampleReviewPage.py" />
+        <option value="$PROJECT_DIR$/test/common/SampleReview.py" />
+        <option value="$PROJECT_DIR$/test/case/Test000-Login.py" />
+        <option value="$PROJECT_DIR$/test/case/Test001-CustomerConfigPage.py" />
+        <option value="$PROJECT_DIR$/test/page/QuotaConfigPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test010_RealTimeRequestPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test005_RoleManagementPage.py" />
+        <option value="$PROJECT_DIR$/test/page/RealTimeMonitorPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test026_ApiServerPage.py" />
+        <option value="$PROJECT_DIR$/test/page/CustomerChargingPage.py" />
+        <option value="$PROJECT_DIR$/test/common/DownloadFile.py" />
+        <option value="$PROJECT_DIR$/test/page/QuotaMangementPage.py" />
+        <option value="$PROJECT_DIR$/test/common/QuotaManagement.py" />
+        <option value="$PROJECT_DIR$/test/page/DataSourcesManagementPage.py" />
+        <option value="$PROJECT_DIR$/test/common/DataSourcesManagement.py" />
+        <option value="$PROJECT_DIR$/test/common/RoleManagement.py" />
+        <option value="$PROJECT_DIR$/test/page/RoleManagentPage.py" />
+        <option value="$PROJECT_DIR$/test/page/ApiServerPage.py" />
+        <option value="$PROJECT_DIR$/test/common/TableOperation.py" />
+        <option value="$PROJECT_DIR$/test/common/ApiServer.py" />
+        <option value="$PROJECT_DIR$/test/case/Test003_DataSourcesConfigPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test027_DataSourcesManagementPage.py" />
+        <option value="$PROJECT_DIR$/test/page/CallDetailPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test001_CustomerConfigPage.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/test/common/PagingOperation.py" />
+        <option value="$PROJECT_DIR$/test/page/CustomerConfigPage.py" />
+        <option value="$PROJECT_DIR$/test/runner/Main.py" />
+        <option value="$PROJECT_DIR$/test/page/LoginPage.py" />
+        <option value="$PROJECT_DIR$/test/common/Login.py" />
+        <option value="$PROJECT_DIR$/test/runner/Main1.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test/case/Test009_HistoryRequestPage.py" />
+        <option value="$PROJECT_DIR$/test/page/MonitorConfigurationPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py" />
+        <option value="$PROJECT_DIR$/test/page/DatasourceCostPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py" />
+        <option value="$PROJECT_DIR$/test/page/FinancialStatisticsPage.py" />
+        <option value="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="631" />
+    <option name="y" value="207" />
+    <option name="width" value="1114" />
+    <option name="height" value="927" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autoTestShuzunbao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTestShuzunbao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTestShuzunbao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTestShuzunbao" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Tools/111/git/Git/bin/git.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TestPython\autoTestShuzunbao\download\ComparisonDocument" />
+      <recent name="E:\TestPython\autoTestShuzunbao\drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\TestPython\autoTestShuzunbao\test\case" />
+      <recent name="E:\TestPython\autoTestShuzunbao\test\page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for Test013_MonitorConfigPage.TestMonitorConfigPage">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoTestShuzunbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoTestShuzunbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autoTestShuzunbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test013_MonitorConfigPage.TestMonitorConfigPage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home02_add_monitor_config_cancel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autoTestShuzunbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test013_MonitorConfigPage.TestMonitorConfigPage.test_home02_add_monitor_config_cancel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home06_delete_monitor_config_cancel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autoTestShuzunbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test013_MonitorConfigPage.TestMonitorConfigPage.test_home06_delete_monitor_config_cancel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home06_delete_monitor_config_cancel" />
+        <item itemvalue="Python tests.pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home02_add_monitor_config_cancel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e52bf30-2b27-4323-aae6-eef629f7981c" name="Default Changelist" comment="" />
+      <created>1621566683673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621566683673</updated>
+      <workItem from="1621566685626" duration="92000" />
+      <workItem from="1621566796029" duration="7896000" />
+      <workItem from="1621820471288" duration="14344000" />
+      <workItem from="1621844282647" duration="6332000" />
+      <workItem from="1621906490172" duration="15538000" />
+      <workItem from="1621993834083" duration="12287000" />
+      <workItem from="1622078670618" duration="19822000" />
+      <workItem from="1622165564818" duration="8292000" />
+      <workItem from="1622424826373" duration="9702000" />
+      <workItem from="1622511385308" duration="21934000" />
+      <workItem from="1622597589471" duration="23363000" />
+      <workItem from="1622684287264" duration="21043000" />
+      <workItem from="1622770121149" duration="18223000" />
+      <workItem from="1623028882519" duration="23413000" />
+      <workItem from="1623116244679" duration="13952000" />
+      <workItem from="1623202835312" duration="5841000" />
+      <workItem from="1623813546329" duration="2398000" />
+      <workItem from="1624239294507" duration="4907000" />
+      <workItem from="1624325171828" duration="6580000" />
+      <workItem from="1624412276579" duration="1817000" />
+      <workItem from="1624498913083" duration="6658000" />
+      <workItem from="1624588476396" duration="8086000" />
+      <workItem from="1624932466589" duration="19232000" />
+      <workItem from="1625039006140" duration="7830000" />
+      <workItem from="1625105749008" duration="19449000" />
+      <workItem from="1625190157574" duration="17115000" />
+      <workItem from="1625451127207" duration="14416000" />
+      <workItem from="1625537349563" duration="17794000" />
+      <workItem from="1625621717124" duration="3558000" />
+      <workItem from="1625709334744" duration="602000" />
+      <workItem from="1625795933812" duration="16420000" />
+      <workItem from="1626053557793" duration="19585000" />
+      <workItem from="1626140158794" duration="17424000" />
+      <workItem from="1626227382623" duration="17888000" />
+      <workItem from="1626313043781" duration="24191000" />
+      <workItem from="1626402789805" duration="16037000" />
+      <workItem from="1626659718715" duration="12474000" />
+      <workItem from="1626744905599" duration="17045000" />
+      <workItem from="1626831644366" duration="20886000" />
+      <workItem from="1626918244743" duration="5409000" />
+      <workItem from="1627264623159" duration="13936000" />
+      <workItem from="1627351260048" duration="2484000" />
+      <workItem from="1627436325124" duration="9659000" />
+      <workItem from="1627523259262" duration="16824000" />
+      <workItem from="1627609128114" duration="639000" />
+      <workItem from="1628047003647" duration="7760000" />
+      <workItem from="1628130210334" duration="19256000" />
+      <workItem from="1628214740700" duration="15312000" />
+      <workItem from="1628473474012" duration="16058000" />
+      <workItem from="1628503585886" duration="1157000" />
+      <workItem from="1628558884621" duration="18080000" />
+      <workItem from="1628732135856" duration="13668000" />
+      <workItem from="1628818488603" duration="4228000" />
+      <workItem from="1629077801710" duration="14425000" />
+      <workItem from="1629164067293" duration="15917000" />
+      <workItem from="1629250540028" duration="58045000" />
+      <workItem from="1629682511415" duration="18569000" />
+      <workItem from="1629769394791" duration="4181000" />
+      <workItem from="1629855711628" duration="3018000" />
+      <workItem from="1629882034710" duration="1810000" />
+      <workItem from="1629941952301" duration="14819000" />
+      <workItem from="1630028013826" duration="4422000" />
+      <workItem from="1630287357542" duration="21425000" />
+      <workItem from="1630461255348" duration="1852000" />
+      <workItem from="1630547564462" duration="2209000" />
+      <workItem from="1630632473794" duration="1843000" />
+    </task>
+    <task id="LOCAL-00001" summary="TestRevisionApprovalPage 新增修改审批页面测试">
+      <created>1621850584101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621850584101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="代码优化">
+      <created>1621850618761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621850618761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Logger新增日志类">
+      <created>1622016635402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622016635402</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TestRoleManagementPage 新增角色管理页面功能自动化实现">
+      <created>1623030217688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623030217688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TestUserManagementPage 新增用户管理功能自动化实现">
+      <created>1623030253272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623030253272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="优化修改">
+      <created>1623030277790</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623030277790</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新增页面功能自动化测试">
+      <created>1626165013483</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626165013483</updated>
+    </task>
+    <task id="LOCAL-00008" summary="代码框架优化">
+      <created>1626416498048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626416498048</updated>
+    </task>
+    <task id="LOCAL-00009" summary="代码框架优化">
+      <created>1627541256856</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627541256856</updated>
+    </task>
+    <task id="LOCAL-00010" summary="代码框架优化">
+      <created>1628475857546</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628475857547</updated>
+    </task>
+    <task id="LOCAL-00011" summary="代码框架优化">
+      <created>1628739752689</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628739752689</updated>
+    </task>
+    <task id="LOCAL-00012" summary="代码框架优化">
+      <created>1628749758721</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628749758721</updated>
+    </task>
+    <task id="LOCAL-00013" summary="代码框架优化">
+      <created>1628749854445</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628749854445</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge branch 'master' into branch1&#10;&#10;# Conflicts:&#10;#&#9;test/page/RealTimeMonitorPage.py">
+      <created>1628751086249</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628751086249</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge branch 'master' into branch1&#10;&#10;# Conflicts:&#10;#&#9;test/page/RealTimeMonitorPage.py">
+      <created>1628752508322</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628752508322</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge branch 'branch1'">
+      <created>1628753128456</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1628753128456</updated>
+    </task>
+    <task id="LOCAL-00017" summary="代码优化">
+      <created>1629442818210</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1629442818211</updated>
+    </task>
+    <task id="LOCAL-00018" summary="代码优化">
+      <created>1629881069286</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1629881069286</updated>
+    </task>
+    <task id="LOCAL-00019" summary="代码优化">
+      <created>1629883005163</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1629883005164</updated>
+    </task>
+    <task id="LOCAL-00020" summary="代码优化">
+      <created>1629883252958</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1629883252958</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_Test020_FinancialStatisticsPage_TestFinancialStatisticsPage - 2021.08.31 at 11h 56m 26s.xml">
+      <configuration name="pytest for Test020_FinancialStatisticsPage.TestFinancialStatisticsPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test020_FinancialStatisticsPage_TestFinancialStatisticsPage_test_home02_download9 - 2021.08.31 at 14h 10m 00s.xml">
+      <configuration name="pytest for Test020_FinancialStatisticsPage.TestFinancialStatisticsPage.test_home02_download9" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test020_FinancialStatisticsPage_TestFinancialStatisticsPage - 2021.08.31 at 14h 13m 13s.xml">
+      <configuration name="pytest for Test020_FinancialStatisticsPage.TestFinancialStatisticsPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage_test_home02_add_monitor_config_cancel - 2021.08.31 at 14h 42m 19s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home02_add_monitor_config_cancel" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage - 2021.08.31 at 14h 46m 34s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage_test_home06_delete_monitor_config_cancel - 2021.08.31 at 14h 48m 46s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home06_delete_monitor_config_cancel" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage - 2021.08.31 at 14h 51m 04s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage - 2021.08.31 at 18h 20m 54s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage - 2021.08.31 at 18h 26m 59s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage - 2021.08.31 at 18h 28m 14s.xml">
+      <configuration name="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="821471000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="631" y="207" width="1114" height="927" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17552182" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32975295" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32975295" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32867885" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.4619883" weight="0.49178404" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.53801167" weight="0.21032746" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32869786" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17140825" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32975295" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32975295" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32867885" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.4619883" weight="0.5531915" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.53801167" visible="true" weight="0.33475178" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32869786" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TestRevisionApprovalPage 新增修改审批页面测试" />
+    <MESSAGE value="Logger新增日志类" />
+    <MESSAGE value="TestRoleManagementPage 新增角色管理页面功能自动化实现" />
+    <MESSAGE value="TestUserManagementPage 新增用户管理功能自动化实现" />
+    <MESSAGE value="优化修改" />
+    <MESSAGE value="新增页面功能自动化测试" />
+    <MESSAGE value="代码框架优化" />
+    <MESSAGE value="Merge branch 'master' into branch1&#10;&#10;# Conflicts:&#10;#&#9;test/page/RealTimeMonitorPage.py" />
+    <MESSAGE value="Merge branch 'branch1'" />
+    <MESSAGE value="代码优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码优化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/case/Test003_DataSourcesConfigPage.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/RoleManagentPage.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>300</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/DataAuthorityPage.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/SystemMonitorPage.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/RealTimeMonitorPage.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/RealTimeMonitorPage.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/CustomerChargingPage.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/HistoryRequestPage.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/FinancialStatisticsPage.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/common/CustomerBill.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/SampleReviewPage.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/CustomerConfigPage.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/page/RoleManagentPage.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test020_FinancialStatisticsPage_TestFinancialStatisticsPage.coverage" NAME="pytest for Test020_FinancialStatisticsPage.TestFinancialStatisticsPage Coverage Results" MODIFIED="1630390254536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test000_Login_TestLogin.coverage" NAME="pytest for Test000_Login.TestLogin Coverage Results" MODIFIED="1629960609634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test027_DataSourcesManagementPage_TestDataSourcesManagementPage_test_06_search2.coverage" NAME="pytest for Test027_DataSourcesManagementPage.TestDataSourcesManagementPage.test_06_search2 Coverage Results" MODIFIED="1629358976937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test001_CustomerConfigPage_TestCustomerConfigPage_test_home07_modify.coverage" NAME="pytest for Test001_CustomerConfigPage.TestCustomerConfigPage.test_home07_modify Coverage Results" MODIFIED="1629687117647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$test111.coverage" NAME="test111 Coverage Results" MODIFIED="1622019303354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test0001_CustomerConfigPage_TestCustomerConfigPage.coverage" NAME="pytest for Test0001-CustomerConfigPage.TestCustomerConfigPage Coverage Results" MODIFIED="1628503174976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$QuotaMangementPage.coverage" NAME="QuotaMangementPage Coverage Results" MODIFIED="1629340424436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestCallDetailPage_py.coverage" NAME="pytest in TestCallDetailPage.py Coverage Results" MODIFIED="1626142645359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRealTimeMonitorPage_TestRealTimeMonitorPage.coverage" NAME="pytest for TestRealTimeMonitorPage.TestRealTimeMonitorPage Coverage Results" MODIFIED="1626256021689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test002_QuotaConfigPage_TestQuotaConfigPage.coverage" NAME="pytest for Test002_QuotaConfigPage.TestQuotaConfigPage Coverage Results" MODIFIED="1628585806066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$RealTimeRequestPage.coverage" NAME="RealTimeRequestPage Coverage Results" MODIFIED="1626925392539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestHistoryRequestPage_TestHistoryRequestPage.coverage" NAME="pytest for TestHistoryRequestPage.TestHistoryRequestPage Coverage Results" MODIFIED="1626924645044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test014_CallDetailPage_TestCallDetailPage.coverage" NAME="pytest for Test014_CallDetailPage.TestCallDetailPage Coverage Results" MODIFIED="1629446706636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestSalePricePage_TestSalePricePage.coverage" NAME="pytest for TestSalePricePage.TestSalePricePage Coverage Results" MODIFIED="1626161383896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test001_CustomerConfigPage_TestCustomerConfigPage_test_home01_add_customer_confirm.coverage" NAME="pytest for Test001_CustomerConfigPage.TestCustomerConfigPage.test_home01_add_customer_confirm Coverage Results" MODIFIED="1628564820196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$CustomerConfigPage.coverage" NAME="CustomerConfigPage Coverage Results" MODIFIED="1629712394735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestRoleManagementPage_py.coverage" NAME="pytest in TestRoleManagementPage.py Coverage Results" MODIFIED="1626344821571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage_test_home02_add_monitor_config_cancel.coverage" NAME="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home02_add_monitor_config_cancel Coverage Results" MODIFIED="1630392084534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage_test_home06_delete_monitor_config_cancel.coverage" NAME="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage.test_home06_delete_monitor_config_cancel Coverage Results" MODIFIED="1630392500033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestRealTimeMonitorPage_py.coverage" NAME="pytest in TestRealTimeMonitorPage.py Coverage Results" MODIFIED="1626255821852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestSalePricePage_TestSalePricePage_test_home04_search.coverage" NAME="pytest for TestSalePricePage.TestSalePricePage.test_home04_search Coverage Results" MODIFIED="1626161170322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$RealTimeMonitorPage.coverage" NAME="RealTimeMonitorPage Coverage Results" MODIFIED="1626251427023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestLogin_py.coverage" NAME="pytest in TestLogin.py Coverage Results" MODIFIED="1626423907558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_test111_test.coverage" NAME="pytest for test111.test Coverage Results" MODIFIED="1622018890638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test020_FinancialStatisticsPage_TestFinancialStatisticsPage_test_home02_download9.coverage" NAME="pytest for Test020_FinancialStatisticsPage.TestFinancialStatisticsPage.test_home02_download9 Coverage Results" MODIFIED="1630390175980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test026_ApiServerPage_TestApiServerPage_test_home01_api_download.coverage" NAME="pytest for Test026_ApiServerPage.TestApiServerPage.test_home01_api_download Coverage Results" MODIFIED="1629191658266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$Main1.coverage" NAME="Main1 Coverage Results" MODIFIED="1629973517877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/runner" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test027_DataSourcesManagementPage_TestDataSourcesManagementPage.coverage" NAME="pytest for Test027_DataSourcesManagementPage.TestDataSourcesManagementPage Coverage Results" MODIFIED="1629359169509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRevisionApprovalPage_TestRevisionApprovalPage.coverage" NAME="pytest for TestRevisionApprovalPage.TestRevisionApprovalPage Coverage Results" MODIFIED="1621844859997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test026_ApiServerPage_TestApiServerPage.coverage" NAME="pytest for Test026_ApiServerPage.TestApiServerPage Coverage Results" MODIFIED="1629366871611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$ExemptionOperationPage.coverage" NAME="ExemptionOperationPage Coverage Results" MODIFIED="1626060823080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1626925216008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Tools/111/python-3.5.0/Lib/site-packages/xlrd" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test001_CustomerConfigPage_TestCustomerConfigPage.coverage" NAME="pytest for Test001_CustomerConfigPage.TestCustomerConfigPage Coverage Results" MODIFIED="1628583065545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$run.coverage" NAME="run Coverage Results" MODIFIED="1630401730357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestHistoryRequestPage_TestHistoryRequestPage_test_home01_search1.coverage" NAME="pytest for TestHistoryRequestPage.TestHistoryRequestPage.test_home01_search1 Coverage Results" MODIFIED="1626923939627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$ApiServerPage.coverage" NAME="ApiServerPage Coverage Results" MODIFIED="1629366695902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage_test_home01_search5.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage.test_home01_search5 Coverage Results" MODIFIED="1627465741409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$multiMenuOperation.coverage" NAME="multiMenuOperation Coverage Results" MODIFIED="1626423859700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$Main.coverage" NAME="Main Coverage Results" MODIFIED="1629968035947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/runner" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRealTimeRequestPage_TestRealTimeRequestPage.coverage" NAME="pytest for TestRealTimeRequestPage.TestRealTimeRequestPage Coverage Results" MODIFIED="1626861701996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_Test000_Login_py.coverage" NAME="pytest in Test000-Login.py Coverage Results" MODIFIED="1628479913804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$DatasourceCostPage.coverage" NAME="DatasourceCostPage Coverage Results" MODIFIED="1629440622845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$DownloadFile.coverage" NAME="DownloadFile Coverage Results" MODIFIED="1629192651485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test009_HistoryRequestPage_TestHistoryRequestPage.coverage" NAME="pytest for Test009_HistoryRequestPage.TestHistoryRequestPage Coverage Results" MODIFIED="1629444600830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRoleManagementPage_TestRoleManagementPage.coverage" NAME="pytest for TestRoleManagementPage.TestRoleManagementPage Coverage Results" MODIFIED="1626344645241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test001_CustomerConfigPage_TestCustomerConfigPage_test_home06_detail_check.coverage" NAME="pytest for Test001_CustomerConfigPage.TestCustomerConfigPage.test_home06_detail_check Coverage Results" MODIFIED="1629686225641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestSystemMonitorPage_py.coverage" NAME="pytest in TestSystemMonitorPage.py Coverage Results" MODIFIED="1625219201327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$HistoryRequest.coverage" NAME="HistoryRequest Coverage Results" MODIFIED="1626852175790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRoleManagementPage_TestRoleManagementPage_test_home01_add_role.coverage" NAME="pytest for TestRoleManagementPage.TestRoleManagementPage.test_home01_add_role Coverage Results" MODIFIED="1622693511842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1626859890681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test005_RoleManagementPage_TestRoleManagementPage.coverage" NAME="pytest for Test005_RoleManagementPage.TestRoleManagementPage Coverage Results" MODIFIED="1629364420234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$ApiServer.coverage" NAME="ApiServer Coverage Results" MODIFIED="1629181566175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$SystemMonitorPage.coverage" NAME="SystemMonitorPage Coverage Results" MODIFIED="1625219103431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestSystemMonitorPage_TestSystemMonitorPage.coverage" NAME="pytest for TestSystemMonitorPage.TestSystemMonitorPage Coverage Results" MODIFIED="1625214786515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1629711682992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$ExcelRead.coverage" NAME="ExcelRead Coverage Results" MODIFIED="1626233910328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$CustomerBill.coverage" NAME="CustomerBill Coverage Results" MODIFIED="1627549912233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage_test_home01_search9.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage.test_home01_search9 Coverage Results" MODIFIED="1627529453561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$Logger.coverage" NAME="Logger Coverage Results" MODIFIED="1621913239882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test005_RoleManagementPage_TestRoleManagementPage_test_home05_stop_role.coverage" NAME="pytest for Test005_RoleManagementPage.TestRoleManagementPage.test_home05_stop_role Coverage Results" MODIFIED="1628736195329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$QuotaConfigPage.coverage" NAME="QuotaConfigPage Coverage Results" MODIFIED="1623056289843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestExemptionOperationPage_TestExemptionOperationPage.coverage" NAME="pytest for TestExemptionOperationPage.TestExemptionOperationPage Coverage Results" MODIFIED="1626163276928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage_test_home01_search3.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage.test_home01_search3 Coverage Results" MODIFIED="1627463022475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$DataAuthorityPage.coverage" NAME="DataAuthorityPage Coverage Results" MODIFIED="1625044745756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestFinancialStatisticsPage_py.coverage" NAME="pytest in TestFinancialStatisticsPage.py Coverage Results" MODIFIED="1627530405751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$RevisionApprovalPage.coverage" NAME="RevisionApprovalPage Coverage Results" MODIFIED="1622444841558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestMonitorConfigPage_TestMonitorConfigPage.coverage" NAME="pytest for TestMonitorConfigPage.TestMonitorConfigPage Coverage Results" MODIFIED="1626337384800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test015_DatasourceCostPage_TestDatasourceCostPage.coverage" NAME="pytest for Test015_DatasourceCostPage.TestDatasourceCostPage Coverage Results" MODIFIED="1630381864180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage_test_home01_search4.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage.test_home01_search4 Coverage Results" MODIFIED="1627526683860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage Coverage Results" MODIFIED="1627528267684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestBillManagementPage_py.coverage" NAME="pytest in TestBillManagementPage.py Coverage Results" MODIFIED="1626422579563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestCustomerChargingPage_TestCustomerChargingPage.coverage" NAME="pytest for TestCustomerChargingPage.TestCustomerChargingPage Coverage Results" MODIFIED="1626162523359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRealTimeMonitorPage_Testreal_time_monitorConfigPage.coverage" NAME="pytest for TestRealTimeMonitorPage.Testreal_time_monitorConfigPage Coverage Results" MODIFIED="1626084518429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestCustomerConfigPage_TestCustomerConfigPage.coverage" NAME="pytest for TestCustomerConfigPage.TestCustomerConfigPage Coverage Results" MODIFIED="1621924878169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestLogin_TestLogin.coverage" NAME="pytest for TestLogin.TestLogin Coverage Results" MODIFIED="1626407125850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1626859729002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$SalePricePage.coverage" NAME="SalePricePage Coverage Results" MODIFIED="1626057912877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestMonitorConfigPage_py.coverage" NAME="pytest in TestMonitorConfigPage.py Coverage Results" MODIFIED="1626338023876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestSampleReviewPage_TestSampleReviewPage_test_home03_reply.coverage" NAME="pytest for TestSampleReviewPage.TestSampleReviewPage.test_home03_reply Coverage Results" MODIFIED="1628235613130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestQuotaConfigPage_TestQuotaConfigPage.coverage" NAME="pytest for TestQuotaConfigPage.TestQuotaConfigPage Coverage Results" MODIFIED="1623056655025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestRealTimeRequestPage_py.coverage" NAME="pytest in TestRealTimeRequestPage.py Coverage Results" MODIFIED="1625134247200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test006_UserManagementPage_TestUserManagementPage.coverage" NAME="pytest for Test006_UserManagementPage.TestUserManagementPage Coverage Results" MODIFIED="1628738288821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestUserManagementPage_py.coverage" NAME="pytest in TestUserManagementPage.py Coverage Results" MODIFIED="1626247390969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$BillManagementPage.coverage" NAME="BillManagementPage Coverage Results" MODIFIED="1626079418564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test005_RoleManagementPage_TestRoleManagementPage_test_home06_modify_role_confirm.coverage" NAME="pytest for Test005_RoleManagementPage.TestRoleManagementPage.test_home06_modify_role_confirm Coverage Results" MODIFIED="1629366958575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$HistoryRequestPage.coverage" NAME="HistoryRequestPage Coverage Results" MODIFIED="1626925263535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$TableOperation.coverage" NAME="TableOperation Coverage Results" MODIFIED="1629165504911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$UserManagementPage.coverage" NAME="UserManagementPage Coverage Results" MODIFIED="1622794128772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$DataSourcesManagementPage.coverage" NAME="DataSourcesManagementPage Coverage Results" MODIFIED="1629354313470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test026_ApiServerPage_TestApiServerPage_test_home02_api_upload.coverage" NAME="pytest for Test026_ApiServerPage.TestApiServerPage.test_home02_api_upload Coverage Results" MODIFIED="1629253260176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test013_MonitorConfigPage_TestMonitorConfigPage.coverage" NAME="pytest for Test013_MonitorConfigPage.TestMonitorConfigPage Coverage Results" MODIFIED="1630405653757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$MonitorConfigurationPage.coverage" NAME="MonitorConfigurationPage Coverage Results" MODIFIED="1626333834756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$test.coverage" NAME="test Coverage Results" MODIFIED="1630395118850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage_test_home01_search8.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage.test_home01_search8 Coverage Results" MODIFIED="1627528442802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestSampleReviewPage_TestSampleReviewPage_test_home05_upload_sample.coverage" NAME="pytest for TestSampleReviewPage.TestSampleReviewPage.test_home05_upload_sample Coverage Results" MODIFIED="1628237609368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_in_TestCustomerBillPage_py.coverage" NAME="pytest in TestCustomerBillPage.py Coverage Results" MODIFIED="1627550103838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestUserManagementPage_TestUserManagementPage.coverage" NAME="pytest for TestUserManagementPage.TestUserManagementPage Coverage Results" MODIFIED="1626253675179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$CallDetailPage.coverage" NAME="CallDetailPage Coverage Results" MODIFIED="1629452267651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$RealTimeRequest.coverage" NAME="RealTimeRequest Coverage Results" MODIFIED="1626682298543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestDataSourcesConfigPage_TestDataSourcesConfigPage.coverage" NAME="pytest for TestDataSourcesConfigPage.TestDataSourcesConfigPage Coverage Results" MODIFIED="1621591425709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestBillManagementPage_TestBillManagementPage.coverage" NAME="pytest for TestBillManagementPage.TestBillManagementPage Coverage Results" MODIFIED="1626424615902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestCustomerBillPage_TestCustomerBillPage.coverage" NAME="pytest for TestCustomerBillPage.TestCustomerBillPage Coverage Results" MODIFIED="1627550236927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestFinancialStatisticsPage_TestFinancialStatisticsPage_test_home01_search1.coverage" NAME="pytest for TestFinancialStatisticsPage.TestFinancialStatisticsPage.test_home01_search1 Coverage Results" MODIFIED="1627438177364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$BasePage.coverage" NAME="BasePage Coverage Results" MODIFIED="1626662817106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestCustomerBillPage_TestCustomerBillPage_test_home01_search1.coverage" NAME="pytest for TestCustomerBillPage.TestCustomerBillPage.test_home01_search1 Coverage Results" MODIFIED="1627550448331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test002_QuotaConfigPage_TestQuotaConfigPage_test_home02_modify_cancel.coverage" NAME="pytest for Test002_QuotaConfigPage.TestQuotaConfigPage.test_home02_modify_cancel Coverage Results" MODIFIED="1628584941520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$CustomerBillPage.coverage" NAME="CustomerBillPage Coverage Results" MODIFIED="1627549915612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test026_ApiServerPage_TestApiServerPage_test_home06_api_detail_check1.coverage" NAME="pytest for Test026_ApiServerPage.TestApiServerPage.test_home06_api_detail_check1 Coverage Results" MODIFIED="1629366412907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestDataAuthorityPage_TestDataAuthorityPage.coverage" NAME="pytest for TestDataAuthorityPage.TestDataAuthorityPage Coverage Results" MODIFIED="1623124875886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestDatasourceCostPage_TestDatasourceCostPage.coverage" NAME="pytest for TestDatasourceCostPage.TestDatasourceCostPage Coverage Results" MODIFIED="1626344403598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestCallDetailPage_TestCallDetailPage.coverage" NAME="pytest for TestCallDetailPage.TestCallDetailPage Coverage Results" MODIFIED="1626142691990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_Test005_RoleManagementPage_TestRoleManagementPage_test_home04_start_role.coverage" NAME="pytest for Test005_RoleManagementPage.TestRoleManagementPage.test_home04_start_role Coverage Results" MODIFIED="1628737733638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$PagingOperation.coverage" NAME="PagingOperation Coverage Results" MODIFIED="1629711629250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/common" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestSampleReviewPage_TestSampleReviewPage.coverage" NAME="pytest for TestSampleReviewPage.TestSampleReviewPage Coverage Results" MODIFIED="1628240061213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$RoleManagentPage.coverage" NAME="RoleManagentPage Coverage Results" MODIFIED="1629366145320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$pytest_for_TestRealTimeMonitorPage_TestRealTimeMonitorPage_test_home01_add_real_time_monitor_cancel.coverage" NAME="pytest for TestRealTimeMonitorPage.TestRealTimeMonitorPage.test_home01_add_real_time_monitor_cancel Coverage Results" MODIFIED="1626251700870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/autoTestShuzunbao$CustomerChargingPage.coverage" NAME="CustomerChargingPage Coverage Results" MODIFIED="1629252777000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/page" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/page/RoleManagentPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test010_RealTimeRequestPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test011_SystemMonitorPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test012_RealTimeMonitorPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test016_SalePricePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test017_CustomerChargingPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test019_ExemptionOperationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test025_SampleReviewPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test026_ApiServerPage.py" />
+    <entry file="file://$PROJECT_DIR$/test/case/Test018_BillManagementPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test027_DataSourcesManagementPage.py" />
+    <entry file="file://$PROJECT_DIR$/test/case/Test002_QuotaConfigPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test004_RevisionApprovalPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test005_RoleManagementPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test006_UserManagementPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/multiMenuOperation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Tools/111/python-3.5.0/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test003_DataSourcesConfigPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/DataSourceConfigPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="89" column="33" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test014_CallDetailPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/DropdownOperation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/CallDetailPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test001_CustomerConfigPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/PagingOperation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test008_DataAuthorityPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/CustomerConfigPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5720">
+          <caret line="95" column="28" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test022_CustomerBillPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/HistoryRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Tools/111/python-3.5.0/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Tools/111/python-3.5.0/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="337" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/runner/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/runner/Main1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test000_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Tools/111/python-3.5.0/Lib/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1245">
+          <caret line="609" column="8" selection-start-line="609" selection-start-column="8" selection-end-line="609" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test009_HistoryRequestPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/PopupClose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/image/2021-08-31/add fail12_18_04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="414" column="21" selection-start-line="414" selection-start-column="21" selection-end-line="414" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/MonitorConfigurationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5520">
+          <caret line="248" column="47" selection-start-line="248" selection-start-column="36" selection-end-line="248" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/TableOperation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/FinancialStatisticsPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/common/FinancialStatistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/DatasourceCostPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="39" column="105" selection-start-line="39" selection-start-column="105" selection-end-line="39" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/page/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

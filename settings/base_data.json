@@ -1,0 +1,7 @@
+{
+  "base_url": "http://139.224.57.204:8080/index.html#/login",
+  "base_username": "admin",
+  "base_password": "shuzun123",
+  "base_code": "123456",
+  "report_path": "E:\\TestPython\\autoTestShuzunbao\\download"
+}
