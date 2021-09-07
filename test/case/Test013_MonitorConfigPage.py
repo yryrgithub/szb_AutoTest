@@ -22,6 +22,7 @@ class TestMonitorConfigPage(unittest.TestCase):
     sheet = 'MonitorConfiguration'
     case = ExcelRead(sheet_name=sheet).get_case_account()
 
+    # 获取excel中测试用例
     @data(*case)
     @unpack
     def test_home01_add_monitor_config_confirm(self, monitor_id, monitor_name, clear_delay_time, clear_interval_time,
@@ -35,6 +36,7 @@ class TestMonitorConfigPage(unittest.TestCase):
                                             lasted_data, receiver_mobile, warming_information, '确定')
         self.home.add_monitor_configuration_assert(assert_type, assert_message)
 
+    # 测试新增监控配置取消功能
     def test_home02_add_monitor_config_cancel(self):
         self.home.add_monitor_configuration('1', '1', 1, 1, 1, 1, 1, 1, '一般消息延迟间隔时间', 1, 1, 1, '12323456754', '1', '取消')
 

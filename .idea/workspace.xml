@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e52bf30-2b27-4323-aae6-eef629f7981c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/runner/Main1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/casedata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/casedata.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/case/Test009_HistoryRequestPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test009_HistoryRequestPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test015_DatasourceCostPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test020_FinancialStatisticsPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/page/CustomerConfigPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/CustomerConfigPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/page/DatasourceCostPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/DatasourceCostPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/page/FinancialStatisticsPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/FinancialStatisticsPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/page/MonitorConfigurationPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/page/MonitorConfigurationPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/runner/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/runner/Main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="322">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -227,9 +216,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="631" />
-    <option name="y" value="207" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="507" />
+    <option name="y" value="195" />
     <option name="width" value="1114" />
     <option name="height" value="927" />
   </component>
@@ -241,29 +230,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="autoTestShuzunbao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autoTestShuzunbao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autoTestShuzunbao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autoTestShuzunbao" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Tools/111/git/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -475,6 +449,7 @@
       <workItem from="1630461255348" duration="1852000" />
       <workItem from="1630547564462" duration="2209000" />
       <workItem from="1630632473794" duration="1843000" />
+      <workItem from="1630986774419" duration="153000" />
     </task>
     <task id="LOCAL-00001" summary="TestRevisionApprovalPage 新增修改审批页面测试">
       <created>1621850584101</created>
@@ -652,7 +627,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="821471000" />
+    <option name="totallyTimeSpent" value="821624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -664,12 +639,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="631" y="207" width="1114" height="927" extended-state="0" />
+    <frame x="507" y="195" width="1114" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17552182" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17836812" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
@@ -1268,8 +1243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="322">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
