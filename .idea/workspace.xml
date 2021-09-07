@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e52bf30-2b27-4323-aae6-eef629f7981c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/case/Test013_MonitorConfigPage.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e52bf30-2b27-4323-aae6-eef629f7981c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,7 +447,7 @@
       <workItem from="1630461255348" duration="1852000" />
       <workItem from="1630547564462" duration="2209000" />
       <workItem from="1630632473794" duration="1843000" />
-      <workItem from="1630986774419" duration="153000" />
+      <workItem from="1630986774419" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="TestRevisionApprovalPage 新增修改审批页面测试">
       <created>1621850584101</created>
@@ -627,7 +625,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="821624000" />
+    <option name="totallyTimeSpent" value="821880000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
